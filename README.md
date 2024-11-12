@@ -1,4 +1,4 @@
-# Cloud-Based Generative AI Serverless Web Application 
+# Harnessing Generative AI for a Serverless Web Application 
 
 ## Description
 build a serverless web application powered by Generative AI using Amazon Bedrock and the Claude 3 Sonnet foundation model. Users can enter a list of ingredients, and the application will generate delicious recipes based on the input ingredients. The application includes an HTML-based user interface for ingredient submission and a backend web app to request AI-generated recipes.
